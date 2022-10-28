@@ -25,7 +25,7 @@ padding: 0.8rem;
 
 main H1{
  color: rgb(255, 255, 255);
-
+    padding: 0.8rem;
 }
 
 footer p{
@@ -35,5 +35,11 @@ footer p{
 
 .form{
     color: #fff;
-    padding: 0.8px;
+    padding: 0.8rem;
+}
+.pp{
+    margin: 0rem;
+  
+    padding-bottom: 0rem;
+    padding-top: 0rem;
 }
