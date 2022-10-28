@@ -1,11 +1,11 @@
 .conteiner{
     
     width: 900px;
-    background-color: rgb(233, 13, 13);
+    background-color: rgb(160, 12, 12);
 }
 
 .nav{
-    background-color: #708090;
+    background-color: #2a5deb;
     padding: 1rem;
 
 }
@@ -17,14 +17,23 @@
     padding: 0.8rem;
 
 }
-
-main{
+main p{
 color: #fff;
 padding: 0.8rem;
+
+}
+
+main H1{
+ color: rgb(255, 255, 255);
 
 }
 
 footer p{
     color: #fff;
     text-align: center;
+}
+
+.form{
+    color: #fff;
+    padding: 0.8px;
 }
